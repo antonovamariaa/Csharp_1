@@ -1,0 +1,15 @@
+/home/maria/geekbrains/programming/hw1/tasks/task4/obj/Debug/net6.0/task4.csproj.AssemblyReference.cache
+/home/maria/geekbrains/programming/hw1/tasks/task4/obj/Debug/net6.0/task4.GeneratedMSBuildEditorConfig.editorconfig
+/home/maria/geekbrains/programming/hw1/tasks/task4/obj/Debug/net6.0/task4.AssemblyInfoInputs.cache
+/home/maria/geekbrains/programming/hw1/tasks/task4/obj/Debug/net6.0/task4.AssemblyInfo.cs
+/home/maria/geekbrains/programming/hw1/tasks/task4/obj/Debug/net6.0/task4.csproj.CoreCompileInputs.cache
+/home/maria/geekbrains/programming/hw1/tasks/task4/bin/Debug/net6.0/task4
+/home/maria/geekbrains/programming/hw1/tasks/task4/bin/Debug/net6.0/task4.deps.json
+/home/maria/geekbrains/programming/hw1/tasks/task4/bin/Debug/net6.0/task4.runtimeconfig.json
+/home/maria/geekbrains/programming/hw1/tasks/task4/bin/Debug/net6.0/task4.dll
+/home/maria/geekbrains/programming/hw1/tasks/task4/bin/Debug/net6.0/task4.pdb
+/home/maria/geekbrains/programming/hw1/tasks/task4/obj/Debug/net6.0/task4.dll
+/home/maria/geekbrains/programming/hw1/tasks/task4/obj/Debug/net6.0/refint/task4.dll
+/home/maria/geekbrains/programming/hw1/tasks/task4/obj/Debug/net6.0/task4.pdb
+/home/maria/geekbrains/programming/hw1/tasks/task4/obj/Debug/net6.0/task4.genruntimeconfig.cache
+/home/maria/geekbrains/programming/hw1/tasks/task4/obj/Debug/net6.0/ref/task4.dll
